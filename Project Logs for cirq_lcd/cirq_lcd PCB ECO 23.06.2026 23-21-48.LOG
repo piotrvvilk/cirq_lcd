@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=3V Pin=CON3-1
+Removed Pin From Net: NetName=VL_INT Pin=CON4-3
+Removed Pin From Net: NetName=ESP_CLK Pin=CON5-2
+Removed Pin From Net: NetName=ESP_DATA Pin=CON5-3
+Removed Pin From Net: NetName=3V3 Pin=U3-
+Change Component Comment : Designator=CON3 Old Comment=TOUCH1 New Comment=TOUCH3
+Change Component Comment : Designator=CON2 Old Comment=TOUCH2 New Comment=TOUCH1
+Change Component Comment : Designator=CON5 Old Comment=TOUCH3 New Comment=TOUCH2
+Added Pin To Net: NetName=VL_INT Pin=CON3-1
+Added Pin To Net: NetName=ESP_CLK Pin=CON5-1
+Added Pin To Net: NetName=ESP_DATA Pin=CON5-2
+Added Pin To Net: NetName=3V Pin=CON5-3
+Add Pin To Net: Unknown Pin: Pin U3-56
