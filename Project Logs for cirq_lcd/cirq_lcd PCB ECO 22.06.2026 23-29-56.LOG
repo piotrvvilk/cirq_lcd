@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=NetC13_1 Pin=X1-2
-Change Component Footprint: Designator=X1 Old Footprint=X_FC-13F New Footprint=X3x2
-Added Pin To Net: NetName=GND Pin=X1-2
-Added Pin To Net: NetName=NetC13_1 Pin=X1-3
-Added Pin To Net: NetName=GND Pin=X1-4
