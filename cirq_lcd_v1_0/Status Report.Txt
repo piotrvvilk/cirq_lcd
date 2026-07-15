@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [cirq_lcd.PrjPcb]
+   Generated File[cirq_lcd.TXT]
+   Generated File[cirq_lcd.LDP]
+   Generated File[cirq_lcd.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 22:31:02 On 15.07.2026

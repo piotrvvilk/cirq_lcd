@@ -1,6 +1,0 @@
-Added Component: Designator=X1(X3x2)
-Added Pin To Net: NetName=NetC14_2 Pin=X1-1
-Added Pin To Net: NetName=GND Pin=X1-2
-Added Pin To Net: NetName=NetC13_1 Pin=X1-3
-Added Pin To Net: NetName=GND Pin=X1-4
-Added Member To Class: ClassName=cirq_lcd Member=Component X1 40MHz
